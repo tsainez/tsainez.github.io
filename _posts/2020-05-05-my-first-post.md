@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C to MIPS Conversion Techniques"
-date:   2020-05-05 22:51:32 -0700
+date:   2020-06-05 01:28:00 -0800
 categories: c mips
 ---
 If you are taking a class in assembly, there's a pattern to follow when it comes to how you should approach converting from C to MIPS by hand. 
