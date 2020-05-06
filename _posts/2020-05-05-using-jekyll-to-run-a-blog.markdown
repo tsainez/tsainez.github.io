@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Jekyll to Run a Blog"
-date:   2020-05-05 22:51:10 -0700
+date:   2020-05-05 22:51:10 -0800
 categories: jekyll update
 ---
 # Set up
