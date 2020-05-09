@@ -18,15 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anthony Sainez
+title: Notes On _______
 email: tsainez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I put little tiny blog posts, mostly for myself.
   Sometimes I like to document processes or code here, or I will publish notes and findings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tteumul
+url: ""     # the base hostname & protocol for your site, e.g. http://example.com
+            # this is kept as "" because we are already at base on github
 github_username:  tsainez
+
+# Fields that jekyll-new with the minima theme uses.
+author: Anthony Sainez
+linkedin_username: anthonysainez
+
+# New fields not defaulted by jekyll-new with the minima theme.
+# ...
 
 # Build settings
 theme: minima
