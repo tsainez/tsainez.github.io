@@ -75,6 +75,7 @@ Fricatives are consonants that are produced with continuous airflow through the 
 Here's a neat little table of the fricatives in English. 
 
 | Glottal state | Point of articulation | Transcription |
+|-|-|-|
 | | Labiodental | |
 | Voiceless | **f**an | [f] |
 | Voiced | **v**an | [v] |
