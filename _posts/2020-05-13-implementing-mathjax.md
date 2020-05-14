@@ -13,7 +13,7 @@ If you want to implement $\LaTeX$ in your Jekyll project in the fastest amount o
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 {% endhighlight %}
 
- into the `posts.html` file in your `_layouts` folder. 
+ into the `post.html` file in your `_layouts` folder. 
 
 Since I'm basically braindead, I didn't have these files at first; they depend on your Jekyll theme. For whatever theme you use, you can use `bundle info THEME` to find them. 
 
