@@ -3,6 +3,7 @@ layout: post
 title:  "Implementing LaTeX through MathJax in Jekyll"
 date:   2020-05-13 02:45:25 -0700
 categories: latex jekyll mathjax 
+comments: true
 ---
 I officially study computer science, so it's an inveitability that I might end up using $$\LaTeX$$ to showcase some pretty looking formula. But there's a lot of different ways to approach this. Here's some that I found. 
 
