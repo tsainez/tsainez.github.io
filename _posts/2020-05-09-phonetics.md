@@ -3,6 +3,7 @@ layout: post
 title:  "Phonetics"
 date:   2020-05-09 17:22:01 -0700
 categories: linguistics language phonetics english
+comments: true
 ---
 
 The branch of linguistics that investigates the sounds that make up speech is phonetics. Personally? I think it's pretty boring, but it's something I should write down for later eventually if I want to learn about linguistics even as a hobby. Some people only study phonetics, so I'll have to just get over it's bad taste for now.
