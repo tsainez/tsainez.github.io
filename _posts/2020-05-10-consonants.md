@@ -2,7 +2,7 @@
 layout: post
 title:  "English Consonants Table"
 date:   2020-05-10 15:28:51 -0700
-categories: linguistics language phonetics english consonants
+categories: linguistics phonetics english
 comments: true
 ---
 
