@@ -50,7 +50,7 @@ Each part of the body where you can modify the airstream to produce different so
 
 ![Places of Articulation](/assets/places_of_articulation.jpg)
 
-<center>Here they are. Photo is taken from *Contemporary Linguistics* by William O'Grady.</center>
+<center>Here they are. Photo is taken from Contemporary Linguistics by William O'Grady.</center> <br> 
 
 # Manners of Articulation
 Using your lips, tongue, velum, and glottis, you can position them in different *manners of articulation* to produce sounds of different kinds.
