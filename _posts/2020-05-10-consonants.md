@@ -8,7 +8,6 @@ comments: true
 
 Here's a table of the English consonants.
 
-
 |Type|Symbol|Word|Transcription|More Examples|
 |-|-|-|-|-|
 |Stops| [p] | spit | [spɪt] | spar, crispy, upper, culprit, bumper |
