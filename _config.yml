@@ -5,6 +5,7 @@ title: Sticky Notes
 author: Anthony Sainez
 email: tsainez@gmail.com
 description: I write lots of sticky notes, here is where I put them. Some notes are longer than others, some really short!
+url: "https://tsainez.github.io"
 
 github_username: tsainez
 # stackoverflow: 9492890
@@ -23,6 +24,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
         
 # Exclude from processing.
 # The following items will not be processed, by default.
