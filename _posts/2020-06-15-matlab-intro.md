@@ -2,7 +2,7 @@
 layout: post
 title:  "MATLAB Experiments"
 date:   2020-06-15 01:58:50 -0700
-categories: matlab
+tag: computer science
 comments: true
 ---
 

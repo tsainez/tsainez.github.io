@@ -2,7 +2,7 @@
 layout: post
 title:  "Phonetics"
 date:   2020-05-09 17:22:01 -0700
-categories: linguistics phonetics english
+tag: linguistics
 comments: true
 ---
 
