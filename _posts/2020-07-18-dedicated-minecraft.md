@@ -38,7 +38,8 @@ What you should be looking at is an Ubuntu terminal.
 4. Run `cd mc` to go into that folder you just created.
 5. Outside of your server terminal on a webrowser like Google Chrome, go to the [official Minecraft server download website](https://www.minecraft.net/en-us/download/server).
 6. Copy the link to the server jar, usually by right-clicking and selecting "Copy link".
-7. Go back to your server terminal. Run `wget https://launcher.mojang.com/v1/objects/a412fd69db1f81db3f511c1463fd304675244077/server.jar` or whatever the link to the server was. If you want to copy and paste the server link, it can usually be done by right clicking, **NOT** by CTRL+V or COMMAND+V.
+7. Go back to your server terminal. Run `wget ...` and replace the `...` with whatever the link to the server file was. 
+	- If you want to copy and paste the server link, it can usually be done by right clicking, **NOT** by CTRL+V or COMMAND+V.
 8. Run `java -Xmx1024M -Xms1024M -jar server.jar nogui` to run the server.
 	- Notice this `server.jar` can be configured in many different ways to suit the needs of your specific set up.
 
