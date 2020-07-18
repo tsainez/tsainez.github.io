@@ -31,7 +31,7 @@ What you should be now looking at is an Ubuntu terminal, where you have access t
 Now it's time to download all the files necessary to create a server.
 
 1. Install Java. This can be done by running `apt-get default-jre`.
-	- If you encounter errors, try running any of these commands. These are what is suggested by the system. It can be helpful to read error messages —even if it takes a while to pick out what they are really saying.
+	- If you encounter errors, try running any of these commands. These are what is suggested by the system. It can be helpful to read error messages, even if it takes a while to pick out what they are really saying.
 		- `sudo apt-get update`
 		- `sudo apt-get install --fix-missing`
 		- `sudo apt-get install openjdk-6-jre-headless`
