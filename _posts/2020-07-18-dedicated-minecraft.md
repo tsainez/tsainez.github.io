@@ -23,10 +23,10 @@ Digital Ocean is a cloud infastructure service. In our case, the service they wi
 	- The default username is `root`, and it uses whatever password you created the droplet with.
 	- It's possible to gain access to the server given password and username via any other method, such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
+What you should be now looking at is an Ubuntu terminal, where you have access to the server.
+
 # Step 3: Minecraft Server creation
 Now it's time to download all the files necessary to create a server.
-
-What you should be looking at is an Ubuntu terminal.
 
 1. Install Java. This can be done by running `apt-get default-jre`.
 	- If you encounter errors, try running any of these commands. These are what is suggested by the system. It can be helpful to read error messages even if it takes a while to pick out what they are really saying.
