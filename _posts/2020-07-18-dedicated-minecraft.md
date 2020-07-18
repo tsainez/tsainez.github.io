@@ -6,7 +6,9 @@ tag: computer science
 comments: true
 ---
 
-This post records the process for creating and hosting a dedicated Minecraft server at no cost through the usage of student packs. Additionally, we won't have to port forward. This means this set up is more secure, and possibly easier to set up in the case of unknown router configurations or other special scenarios.
+This post records the process for creating and hosting a dedicated Minecraft server at no cost through the usage of student packs. 
+
+Additionally, we won't have to port forward. This means this set up is more secure, and possibly easier to set up in the case of unknown router configurations or other special scenarios.
 
 # Step 1: GitHub Education
 If you're a student in university, there's a good chance you can get a [GitHub student pack](https://education.github.com/pack/offers), which includes $50 [Digital Ocean](https://cloud.digitalocean.com/) credit as of 18 July 2020. This can be used to create a droplet which will host our server.
@@ -21,7 +23,7 @@ Digital Ocean is a cloud infastructure service. In our case, the service they wi
 	- It is advisable to keep in mind that the longevity of your server is at stake when you choose which plan.
 2. Navigate to the "access" tab in the droplet and log in. This will SSH you into the server.
 	- The default username is `root`, and it uses whatever password you created the droplet with.
-	- It's possible to gain access to the server given password and username via any other method, such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+	- It's possible to gain access to the server given password and username via any other method, such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/).
 
 What you should be now looking at is an Ubuntu terminal, where you have access to the server.
 
@@ -29,11 +31,11 @@ What you should be now looking at is an Ubuntu terminal, where you have access t
 Now it's time to download all the files necessary to create a server.
 
 1. Install Java. This can be done by running `apt-get default-jre`.
-	- If you encounter errors, try running any of these commands. These are what is suggested by the system. It can be helpful to read error messages even if it takes a while to pick out what they are really saying.
+	- If you encounter errors, try running any of these commands. These are what is suggested by the system. It can be helpful to read error messages —even if it takes a while to pick out what they are really saying.
 		- `sudo apt-get update`
 		- `sudo apt-get install --fix-missing`
 		- `sudo apt-get install openjdk-6-jre-headless`
-2. Run `cd /home/` to navigate to a cleaner, more manageable part of your server.
+2. Run `cd /home/` to navigate to a cleaner and more manageable part of your server.
 3. Run `mkdir mc` to create a folder where you can store your server and its information.
 4. Run `cd mc` to go into that folder you just created.
 5. Outside of your server terminal on a webrowser like Google Chrome, go to the [official Minecraft server download website](https://www.minecraft.net/en-us/download/server).
