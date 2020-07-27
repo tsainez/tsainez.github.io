@@ -40,8 +40,8 @@ Vowels also happen to be more **sonorous** than consonants, and so we perceive t
 
 | Vowels & syllabic elements | Consonants & nonsyllabic elements|
 |-|-|
-|are produced with relatively little obstruction in the vocal tract. | are produced with a complete closure or narrowing of the vocal tract |
-|are more sonorous | are less sonorous |
+|are produced with relatively little obstruction in the vocal tract. | are produced with a complete closure or narrowing of the vocal tract. |
+|are more sonorous. | are less sonorous. |
 
 Glides can be thought of as rapidly articulated vowels that move quickly to another articulation, like in **y**et and **w**et, or like bo**y** and no**w**. These guys never form the nucleus of a syllable, since they show properties of both consonants and vowels. 
 
