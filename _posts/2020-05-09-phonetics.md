@@ -6,19 +6,19 @@ tag: linguistics
 comments: true
 ---
 
-The branch of linguistics that investigates the sounds that make up speech is phonetics. Personally? I think it's pretty boring, but it's something I should write down for later eventually if I want to learn about linguistics even as a hobby. Some people only study phonetics, so I'll have to just get over it's bad taste for now.
+The branch of linguistics that investigates the sounds that make up speech is phonetics. 
 
-The sounds we use, at the most basic level, can be called **phones**. There's a finite amount of them, since we use our vocal tract to make noise and it's not capable of producing an infinite number of noises.
+The sounds we use, at the most basic level, can be called **phones**. 
 
 # Phonetic Transcription
-Since the sixteenth century, we have made efforts to use a universal system for writing down sounds. Today, we use the **International Phonetic Alphabet**, which is commonly abbreviated to **IPA**. You can find the alphabet [here](https://en.wikipedia.org/wiki/Help:IPA/English). 
+Since the sixteenth century, linguists have made efforts to use a universal system for writing down sounds. Today, we use the **International Phonetic Alphabet**, which is commonly abbreviated to **IPA**. You can find the alphabet [here](https://en.wikipedia.org/wiki/Help:IPA/English). 
 
 Normally, the transcription is indicated by brackets: the "**b**" sound in "**b**uy" is denoted by [b] The IPA represents speech in **segments**, like the individual [b] phone in the previous example. 
 
 # Making Noise
-Sound is basically just airwaves vibrating really fast in your ear. So, in order for us to make speech sounds, we have to vibrate air really fast. As you already know, we have a special place on our body just for this: the **larynx**, located at your Adam's apple. It houses the **vocal folds** (sometimes referred to as cords) which you use to manipulate the air your lungs provide into speech sounds, and it's also made out of cartilage.
+The **larynx**, located at your Adam's apple, houses the **vocal folds** (sometimes referred to as cords) which you use to manipulate the air your lungs provide into speech sounds, and it's also made out of cartilage.
 
-As air flows outta the lungs and up the **trachea** (sometimes called windpipe), and into your larynx. As it goes through the vocal cords, which is also called the **glottis**, different *glottal states* are achieved.
+Air flows from the lungs up into the **trachea** (sometimes called windpipe), and into your larynx. As it goes through the vocal cords, which is also called the **glottis**, different *glottal states* are achieved.
 
 # Glottal States
 The two glottal states are: **voiceless** and **voiced**.
@@ -30,7 +30,7 @@ Try this: feel your vocal cords as you say the first sound in the word "shy." No
 # Classifying Sound
 The most basic division of sounds is between the **vowels** and **consonants**, but there are also the **glides** who share properties of both.
 
-Consonants can be either voiced or voiceless but are made with either a complete closure or a narrowing of the vocal tract. You create consonants by blocking or restricting the airflow. Vowels, which are usually voiced, are made without much obstruction in the vocal tract.
+Consonants can be either voiced or voiceless but are made with either a complete closure or a narrowing of the vocal tract. Consonants are created by blocking or restricting the airflow. Vowels, which are usually voiced, are made without much obstruction in the vocal tract.
 
 * *Note: for all vowels, the tip of your tongue stays down by your lower front teeth.*
 
@@ -61,7 +61,7 @@ When the velum is lowered (allowing air to pass through the nasal cavity), **nas
 
 When a complete closure in the oral cavity or glottis occurs, it is called a **stop**. It can be found in the bilabial, dental, alveolar, alveopalatal, palatal, velar, uvular and glottal places of articulation.
 
-Here's a neat little table that shows off some stop consonants in English.
+Here is a table of some of the stop consonants in English.
 
 | | | Bilabial | Alveolar | Velar | Glottal |
 |-|-|-|-|-|-|-|
@@ -69,11 +69,9 @@ Here's a neat little table that shows off some stop consonants in English.
 | | Voiced| [b] | [d] | [g] | |
 |Nasal| Voiced | [m] | [n] | [ŋ] |
 
-Here's that [link to the IPA alphabet with some examples](https://en.wikipedia.org/wiki/Help:IPA/English) again if you wanna try producing these sounds yourself. 
-
 Fricatives are consonants that are produced with continuous airflow through the mouth. They belong to the **continuants**, who also include vowels and glides.
 
-Here's a neat little table of the fricatives in English. 
+Here's a table of some of the fricatives in English. 
 
 | Glottal state | Point of articulation | Transcription |
 |-|-|-|
@@ -125,11 +123,11 @@ The control of pitch results in **tone** and **intonation**.
 
 A language is said to have tone when **differences in word meaning are signaled by differences in pitch**.
 
-When I say "A *car?*" with a raising pitch, the word "car" refers to the same thing as when it's pronounced without that raised pitch; this is **intonation**. In contrast, a speaker of Mandarin can say entirely different words by changing the pitch; this is **tone**. For instance: [mà] with a falling pitch means something entirely different than [má] with a rising pitch. 
+When one says "A *car?*" with a raising pitch, the word "car" refers to the same thing as when it's pronounced without that raised pitch; this is **intonation**. In contrast, a speaker of Mandarin can say entirely different words by changing the pitch; this is **tone**. For instance: [mà] with a falling pitch means something entirely different than [má] with a rising pitch. 
 
 The amount and classification of tone varies from language to language.
 
-> But.. intonation signals meaning too, right?
+> But, intonation signals meaning too, right?
 
 Yes! It does, but it does not change the meaning of a word, rather just signals something *different*.
 
@@ -145,3 +143,63 @@ Sometimes, vowels are perceived as more prominent than others, like how in "bana
 - Consonants and glides are produced at various places of articulation, and different manners of articulation produce different sounds, from fricatvies to glides. 
 - Vowels can be described with reference to tongue position and lip rounding.
 - Language also has suprasegmental phenomena like tone, intonation and stress.
+
+# Additional Materials
+Here's a table of many of the English consonants.
+
+|Type|Symbol|Word|Transcription|More Examples|
+|-|-|-|-|-|
+|Stops| [p] | spit | [spɪt] | spar, crispy, upper, culprit, bumper |
+| | [b] | bib | [bɪb] | boat, liberate, rob, blast |
+| | [t] | stuck | [stʌk] | stem, hunter, nasty, mostly |
+| | [d] | dip | [dɪp] | dust, sled, draft |
+| | [k] | skip | [skɪp] | scatter, uncle, blacklist, likely |
+| | [g] | get | [gɛt] | gape, mugger, twig, gleam |
+| Aspirated Stops | [pʰ] | pit | [pʰɪt] | pain, upon, apart |
+| | [tʰ] | tick | [tʰɪk] | tell, attire, terror, tutu |
+| | [kʰ] | keep | [kʰip] | cow, kernel, recur | 
+| Affricates | [ʧ] | chip | [ʧɪp] | lunch, lecher, ditch, belch |
+| | [ʤ] | judge | [ʤʌʤ] | germ, journal, budge, wedge |
+| Fricatives | [f] | fit | [fɪt] | flash, coughing, proof, phlegmatic, gopher |
+| | [v] | vat | [væt] | vote, oven, prove |
+| | [θ] | thick | [θɪk] | thought, ether, teeth, three, bathroom |
+| | [ð] | though | [ðoʊ] | then, bother, teethe, bathe |
+| | [s] | sip | [sɪp] | psychology, fasten, lunacy, bass, curse, science |
+| | [z] | zap | [zæp] | Xerox, scissors, desire, zipper, fuzzy |
+| | [ʃ] | ship | [ʃɪp] | shock, nation, mission, glacier, wish |
+| | [ʒ] | rouge | [ruʒ] | measure, azure, visual, garage (for some speakers) |
+| | [h] | hat | [hæt] | who, ahoy, forehead, behind |
+| Nasals | [m] | moat | [mowt] | mind, humor, shimmer, sum, thumb |
+| | [n] | note | [nowt] | now, winner, angel, sign, wind |
+| | [ŋ] | sang | [sæŋ] | singer, longer, bank, twinkle, speaking |
+| Syllabic Nasals | [m̩] | m-m | [ʔm̩ʔm̩] | bottom, prism |
+| | [n̩] | button | [bʌtn̩] | Jordan, fatten |
+| Liquids | [l] | leaf | [lif] |  loose, lock, alive, hail |
+| | [r] | reef | [rif] | rod, arrive, tear |
+| Flap | [ɾ] | hitting | [hiɾiŋ] | butter, madder, writer, rider, pretty, amity | 
+| Syllabic Liquids | [l̩] | huddle | [hʌdl̩] | bottle, needle (for many speakers) |
+| | [ɚ] | bird | [bɚd] | early, hurt, stir, purr |
+| | [r̩] | doctor | [dɑktr̩] | summer, eraser, eager |
+| Glides | [j] | yet | [jɛt] | use, cute, yes |
+| | [w] | witch | [wɪʧ] | wait, weird, queen, now |
+| | [ʍ] | which | [ʍitʧ] | what, where,  when (only for some speakers) |
+
+Here's a table of many of the vowels in English.
+
+|Symbol|Word|Transcription|More Examples|
+|-|-|-|-|
+|[i]|	fee|	[fi]		|she, cream, believe, receive, serene, amoeba, highly |
+|[ɪ]|	fit|	[fɪt]		|hit, income, definition, been (for some)|
+|[ej]|	fate|	[fejt]		|they, clay, grain, gauge, engage, great, sleigh|
+|[ɛ]|	let|	[lɛt]		|led, head, says, said, sever, guest|
+|[æ]|	bat|	[bæt]		|lab, racket, laugh, pal|
+|[u]|	boot|	[but]		|do, two, loose, brew, Louise, Lucy, through |
+|[ʊ]|	book|	[bʊk]		|should, put, hood|
+|[ow]|	note|	[nowt]		|no, throat, though, slow, toe, oaf, O'Connor|
+|[ɔ]|	fought|	[fɔt]		|caught, normal, all|
+|[ɔj]|	boy|	[bɔj]		|voice, boil, toy|
+|[ɑ]|	rob|	[rɑb]		|cot, father, body|
+|[ʌ]|	shut|	[ʃʌt]		|other, udder, tough, lucky, what, flood|
+|[ə]|	suppose|[səpʰowz]	|collide, telegraph, about, hinted (for some) |
+|[aw]|	crowd|	[krawd]		|(to) house, plow, bough|
+|[aj]|	lies|	[lajz]		|my, tide, thigh, buy|
