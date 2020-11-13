@@ -5,13 +5,11 @@ date:   2020-05-05 01:28:00 -0700
 tag: computer science
 comments: true
 ---
-If you are taking a class in assembly, there's a pattern to follow when it comes to how you should approach converting from C to MIPS by hand. 
-
-*This post assumes you already have some working knowledge on MIPS and C programming.*
+*This post assumes working knowledge of both C and MIPS.*
 
 # Comparisons
 
-For starters, if you are using any comparisons in C, the equivalent instruction in MIPS is the opposite. So, given that `$t0` maps to `x`, `$t1` maps to `y` , you have the following C code:
+If you are using any comparisons in C, the equivalent instruction in MIPS is the opposite. So, given that `$t0` maps to `x`, `$t1` maps to `y` , you have the following C code:
 
 {% highlight c %}
 if (x == y) {
@@ -35,10 +33,6 @@ after:
 {% endhighlight %}
 
 Notice the inclusion of the else clause is optional, and you could remove it entirely and only have to change where the `bne` instruction branches to— which is probably the `after` label.
-
-Here's a handy chart to use.
-
-On the first column, you will see the expression in C and it's MIPS counterpart. 
 
 | C | MIPS |
 |-|-|
@@ -90,7 +84,7 @@ while (i < y) {
 }
 {% endhighlight %}
 
-Sure, it's a little uglier— but the process runs the same. So, now we can use the same conventions we knew from before and create the final MIPS code:
+Now we can use the same conventions we knew from before and create the final MIPS code:
 
 {% highlight MIPS %}
         addi $t0,   $zero,  0       # int i = 0
@@ -99,8 +93,6 @@ while:  bge $t0,    $t1,    after   # while ( i < y)
         j while
 after:
 {% endhighlight %}
-
-Neat.
 
 # Functions
 
@@ -115,9 +107,7 @@ int max(int x, int y) {
 }
 {% endhighlight %}
 
-If you're put off by the syntax, it is legal in C to omit brackets if the statement after the check is only one line. That's really useful for writing code quickly.
-
-Anyway, the code will become the following MIPS code.
+The above C code will become the following MIPS code.
 
 {% highlight MIPS %}
 max:
@@ -136,8 +126,7 @@ This code uses the proper register conventions, where `$v0` is the return value 
 Notice that there's a few statements here that could easily be shortened, most notably `add $v0,    $zero,  $a0` could be a `move   $v0,  $a0`. 
 
 # Using the Stack
-
-Things can get hairy really quickly if you're calling subroutines within subroutines, or if you're using `syscall` inside of a subroutine. That's why using the stackpointer to save values can be very useful.
+Things can get messy really quickly if you're calling subroutines within subroutines, or if you're using `syscall` inside of a subroutine. That's why using the stackpointer to save values can be very useful.
 
 Some general rules,
 
@@ -164,7 +153,7 @@ max:
 Note that we count backwards using the stack pointer, and we keep the pointer word aligned by only incrementing and decrementing in multiples of 4.  
 
 # Recursion
-If you're going to take a test in assembly, expect recursion since it requires a mastery of all the previously mentioned techniques.
+Recursion requires a mastery of all the aforementioned techniques. 
 
 Let's look at an example: calculating the factorial of a number n. You would write this in C like so:
 
@@ -176,8 +165,6 @@ int factorial(int n) {
         return  n * factorial(n-1);
 }
 {% endhighlight %}
-
-I'm not gonna overcomplicate the example by trying to account for edge cases like the factorial of fractions, which requires integrals.
 
 You would convert this to the following MIPS code:
 
@@ -209,9 +196,3 @@ factorial:
 {% endhighlight %}
 
 Remember: the argument is in `$a0` and the result is stored in `$v0` following register conventions. 
-
-MIPS and C are hard. 
-
-I took this all from my handwritten notes and wrote this blog post at 1:04 AM for my own reference, so if you looked at this and saw something blatantly wrong, please let me know. 
-
-Thanks.
