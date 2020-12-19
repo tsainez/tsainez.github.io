@@ -5,7 +5,7 @@ date:   2020-05-05 01:28:00 -0700
 tag: computer science
 comments: true
 ---
-*This post assumes working knowledge of both C and MIPS.*
+<p class="meta">05 May 2020</p>
 
 # Comparisons
 
@@ -33,15 +33,6 @@ after:
 {% endhighlight %}
 
 Notice the inclusion of the else clause is optional, and you could remove it entirely and only have to change where the `bne` instruction branches to— which is probably the `after` label.
-
-| C | MIPS |
-|-|-|
-|==|bne|
-|!=|beq|
-|<|bge|
-|<=|bgt|
-|>|ble|
-|>=|blt|
 
 # Loops
 
