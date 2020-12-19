@@ -1,20 +1,41 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Anthony Sainez" />
 
-  {%- include head.html -%}
+   <!-- Syntax highlighting SCSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
 
-  <body>
+   <!-- Homepage SCSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
-    {%- include header.html -%}
+</head>
+<body>
+<div class="site">
+  <div class="title">
+    <a href="/">Anthony Sainez</a>
+    <a class="extra" href="/">home</a>
+  </div>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+  {{ content }}
 
-    {%- include footer.html -%}
-
-  </body>
-
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Anthony Sainez
+        <br>
+        <a href="../assets/curriculum_vitae.pdf">curriculum vitae</a>
+        <br>
+        tsainez@gmail.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/tsainez/">github</a><br />
+        <a href="https://www.linkedin.com/in/anthonysainez/">linkedin</a><br />
+      </p>
+    </div>
+  </div>
+</div>
+</body>
 </html>
