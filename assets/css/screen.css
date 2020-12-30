@@ -17,7 +17,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color:#ededed;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -38,8 +38,8 @@ p {
 }
 
 a {
-  color: #00a;
-  filter: invert(100%);
+  color: rgb(113, 120, 167);
+  /* filter: invert(100%); */
 }
 
 a:hover {
@@ -48,8 +48,8 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
-  filter: invert(100%);
+  color: rgb(144, 112, 154);
+  /* filter: invert(100%); */
 }
 
 table {
@@ -99,14 +99,14 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: rgb(113, 120, 167);
   font-weight: bold;
   margin-bottom: 2em;
   
 }
 
   .site .title a {
-    color: #a00;
+    color:rgb(113, 120, 167);
     text-decoration: none;
   }
 
@@ -148,6 +148,11 @@ ul.posts {
 
       .site .footer .contact a {
         color: #8085C1;
+      }
+
+      .site .footer .contact a:hover {
+        color: black;
+        filter: invert(100%);
       }
 
     .site .footer .rss {
