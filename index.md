@@ -15,8 +15,9 @@ title: Anthony Sainez
     
     <h1>Highlighted Media</h1>
     <ul class="posts">
-        <li><span>27 Jul 2020</span> &raquo; <a href="https://ucm-ling.github.io/articles/aave.html    ">Article: Phonetics</a></li>
-        <li><span>11 Apr 2020</span> &raquo; <a href="https://ucm-ling.github.io/articles/writing-sys.html">Article: Writing Systems and Language</a></li>
+        <li><span>27 July 2020</span> &raquo; <a href="https://ucm-ling.github.io/articles/phonetics.html">Phonetics</a></li>
+        <li><span>11 Apr 2020</span> &raquo; <a href="https://ucm-ling.github.io/articles/writing-sys.html">Writing Systems and Language</a></li>
+        <li><span>1999</span> &raquo; <a href="https://ucm-ling.github.io/articles/aave.html    ">African American Vernacular English Is Not Standard English With Mistakes</a></li>
     </ul>
     
 
