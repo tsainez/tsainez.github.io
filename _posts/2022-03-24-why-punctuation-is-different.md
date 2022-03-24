@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Why Punctuation is Different from Letters"
+---
+
+# Why Punctuation is Different from Letters
+
+So perhaps this is something you've never thought about, but how come we make the distinction between letters and punctuation marks? Well, the distinctions made between all the different components of a writing system are observed by linguists and then given names.
+
+The defining feature of a punctuation mark is that it's purpose is to **aid the reader**, traditionally when reading aloud. For instance, the spaces we use between words in English is a punctuation mark since it acts as a delimiter or a tokenizer for each word. Without it, reading English would be significantly more difficult.
+
+The "correctness" of a written word is a **convention** that is collectively decided by our language community through usage. For instance, the hyphenation of "light-hearted" is intended to help aid the reader, but if we all decided to write it without the hyphen, that would become the convention. Conventions can change, but they change much slower for writing systems than they do for spoken word!
+
+The symbol "œ" is a letter that is used in languages other than English. The best way to describe it is a **grapheme**, which is basically a building block of a writing system, or **orthography**. Everything we have discussed so far is a grapheme. You can think of graphemes as the electrons, neutrons and protons of writing systems! This analogy works well because there are different kinds of graphemes, too, such as punctuation and alphabetic letters.
+
+The tilde (that's the "~" above the "n") in "ñ" is a diacritic, which is just a punctuation mark that is added to an already existing character to give it additional meaning, usually appearing above or below a letter. They are not limited to Latin, either: Arabic and Hebrew orthographies both include diacritics.
+
+<hr>
+
+# Side notes
+
+**Q:** Are there any languages that dont use spacing? It seems so useful!
+
+**A:** Japanese orthography includes no spacing and no capitalization, but readability is achieved through contextual usage of their different writing systems: hiragana, katakana and kanji.
+
+**Q:** What about numbers? Like "1" and "6"?
+
+**A:** Those are logograms. It's worth noting that there are other numeral systems, like in Chinese where one can use "一", "二" and "三" for "1", "2" and "3" respectively. Do you see how the number of lines in the corresponds to the quantity it describes? Those characters in particular could be called ideograms.
+
+<hr>
+
+# Confession
+
+This is a reupload of an answer I posted on StackExchange Linguistics.

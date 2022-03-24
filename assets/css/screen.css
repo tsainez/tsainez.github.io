@@ -1,4 +1,3 @@
-
 /* TODO: Remove filter: invert(100%) and replace with true color. */
 
 * {
@@ -10,27 +9,34 @@ html {
   overflow: hidden;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   filter: invert(100%);
   /* overscroll-behavior: none; */
 }
 
 body {
-  background-color:#ededed;
+  background-color: #ededed;
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
   overflow: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: 100%;
   filter: invert(100%);
 }
 
 h1 {
   margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 p {
@@ -68,16 +74,16 @@ ul.posts {
   filter: invert(100%);
 }
 
-  ul.posts li {
-    line-height: 1.75em;
-  }
+ul.posts li {
+  line-height: 1.75em;
+}
 
-  ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-    filter: invert(100%);
-  }
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  filter: invert(100%);
+}
 
 .site {
   font-size: 110%;
@@ -91,107 +97,102 @@ ul.posts {
   color: rgb(113, 120, 167);
   font-weight: bold;
   margin-bottom: 2em;
-  
 }
 
-  .site .title a {
-    color:rgb(113, 120, 167);
-    text-decoration: none;
-  }
+.site .title a {
+  color: rgb(113, 120, 167);
+  text-decoration: none;
+}
 
-  .site .title a:hover {
-    color: black;
-    filter: invert(100%);
-  }
+.site .title a:hover {
+  color: black;
+  filter: invert(100%);
+}
 
-  .site .title a.extra {
-    color: #aaa;
-    text-decoration: none;
-    margin-left: 1em;
-    filter: invert(100%);
-  }
+.site .title a.extra {
+  color: #aaa;
+  text-decoration: none;
+  margin-left: 1em;
+  filter: invert(100%);
+}
 
-  .site .title a.extra:hover {
-    color: black;
-    filter: invert(100%);
-  }
+.site .title a.extra:hover {
+  color: black;
+  filter: invert(100%);
+}
 
-  .site .meta {
-    color: #aaa;
-    filter: invert(100%);
-  }
+.site .meta {
+  color: #aaa;
+  filter: invert(100%);
+}
 
-  .site .footer {
-    font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
-    margin-top: 2em;
-    overflow: hidden;
-    filter: invert(100%);
-  }
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+  filter: invert(100%);
+}
 
-    .site .footer .contact {
-      float: left;
-      margin-right: 3em;
-    }
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
 
-      .site .footer .contact a {
-        color: #8085C1;
-      }
+.site .footer .contact a {
+  color: #8085c1;
+}
 
-      .site .footer .contact a:hover {
-        color: black;
-        filter: invert(100%);
-      }
+.site .footer .contact a:hover {
+  color: black;
+  filter: invert(100%);
+}
 
-    .site .footer .rss {
-      margin-top: 1.1em;
-      margin-right: -.2em;
-      float: right;
-    }
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -0.2em;
+  float: right;
+}
 
-      .site .footer .rss img {
-        border: 0;
-      }
+.site .footer .rss img {
+  border: 0;
+}
 
 #post {
-
 }
 
-  #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
-    filter: invert(100%);
-  }
+#post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 0.4em;
+  filter: invert(100%);
+}
 
-  #post ul,
-  #post ol {
-    margin-left: 1.35em;
-  }
+#post ul,
+#post ol {
+  margin-left: 1.35em;
+}
 
-  #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    font-size: 85%;
-    padding: 0 .2em;
-    
-  }
+#post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  font-size: 85%;
+  padding: 0 0.2em;
+}
 
-    #post pre code {
-      border: none;
-      
-    }
+#post pre code {
+  border: none;
+}
 
-  #post img {
-    max-width: 42em;
-    padding: 1em 0;
-    
-  }
-  
+#post img {
+  max-width: 42em;
+  padding: 1em 0;
+}
+
 /* Legacy */
 
-  /* #post pre.terminal {
+/* #post pre.terminal {
     border: 1px solid black;
     background-color: #333;
     color: white;
