@@ -1,0 +1,40 @@
+---
+layout: post
+title: "More Than Words"
+---
+
+# More Than Words
+
+Language is arguably what makes us human. Any Google search will yield millions of writings from people of all occupations— distinguished linguists, biologists, and even philosophers— confirming this finding. Similarly considered as common sense is the fact of language and thought being intertwined. Since classical antiquity, scientists of all flavors have been closely examining the relationship between communication and thought; and these scientists and their findings were subject to the socio-cultural norms which they lived in during their times. In a horrific twist, the very thing that makes humans unique is used for the othering of different people.
+
+The idea that thought is influenced by the language you speak is generally referred to as linguistic relativism. Sometimes it is specifically referred to as the Sapir–Whorf hypothesis, in reference to Benjamin Lee Whorf and Edward Sapir, who are commonly credited as the two main inventors of this theory. The stronger version of the hypothesis makes the claim that the language you speak determines your thought— succinctly called linguistic determinism. However, this is nowhere near an all encompassing description of the discourse around this subject, as opinions and nuances vary wildly. As famous philosopher Max Black once lamented, “an enterprising Ph.D. candidate would have no trouble in producing at least 108 versions of Whorfianism.”
+
+A fire prevention engineer by trade, Whorf came from intellectual royalty, graduating from the Massachusetts Institute of Technology in 1918 with a degree in chemical engineering. A few years later, he would discover a passion and talent for linguistics, and ended up teaching at Yale where he used the idea of linguistic relativism to spread his enthusiasm and build interest from non-linguists in the field. Publishing in the _Technology Review_, he wrote:
+
+<p style="padding-left: 25px; padding-right: 25px;"> “… the background linguistic system (in other words, the grammar) of each language is not merely a reproducing instrument for voicing ideas but rather is itself a shaper of ideas, the program and guide for the individual's mental activity, for his analysis of impressions, for his synthesis of his mental stock in trade… This fact is very significant for modern science, for it means that no individual is free to describe nature with absolute impartiality but is constrained to certain modes of interpretation even while he thinks himself most free.” </p>
+
+In order to fully understand Whorfianism you must examine how he came to this conclusion. For linguists, languages are simply complex sets of rules that can be compared and analyzed for difference. Therefore, most theories are proven via empiricism in two ways: conducting experiments (giving participants tasks such as in color perception) and observing languages in the natural environment. For Whorf, he studied the Hopi Native American tribe in Arizona, wherein he found that their language has “no general notion or intuition of time as a smooth flowing continuum in which everything in the universe proceeds at an equal rate, out of a future, through a present, into a past.” This spawned a full-blown controversy.
+
+Every once in a while, the linguistics world is seemingly turned upside down by findings like this. Though this is still a developing issue, recently linguists have been shocked by Daniel Everett’s findings when describing the Amazon Basin's Pirahã people’s language. Pirahã is allegedly evidence refuting Noam Chomsky’s theory of universal grammar by way of counterexample: it has no quantifiers (no counting), and it has no recursion. A discovery like this has the potential to upset one of the field's longest standing theories.
+
+Everett’s and Whorf’s science is controversial for two reasons, however. Firstly, there is the question of the technical validity in their claims. For Everett, linguists attack his evidence directly; some find that Pirahã does indeed have quantifiers and recursion, and without that evidence Everett’s argument against universal grammar falls apart. In Whorf’s case, the debate around Hopi is settled. Most agree that the Hopi can perceive time and think about the future despite not having a specific future tense like in English or other Western languages.
+
+The second reason they are controversial are the socio-cultural factors at play in their work— which seem unbefitting of an ideal scientist. Once Whorf extended Hopi grammar all the way to Hopi thoughts, he placed them in a fundamentally different category distinct from Western people. Everett, on the other hand, took his bible to the Amazon as a missionary and brought along all the historical baggage that comes with that. Additionally, Everett has a credibility issue: some consider him to be the sole authority on Pirahã, and it’s alarming when such a figure immediately runs to the press with their findings and no one else can validate his claims. Even though there are publications in prestigious linguistics journals like _Language_ that implicate deep issues in his study, Everett’s name can be found plastered all over the internet in sensationalist news articles that push his research into the sphere of popular culture.
+
+The ideas proposed in the Sapir-Whorf hypothesis can seem appealing to the layman. Its conclusion is easy to understand, and the implications can be used for practically any agenda. But linguists that have studied language features like gender, color, and as mentioned before quantification and time seem to suggest that maybe Whorf was wrong. The discussion is further complicated by the immediate follow-up question: if language affects thought, then in what manner? There is no widely accepted consensus— just heavy and intense debate.
+
+Finally, something to note in Whorf’s writing is his sentiment towards the scientific-ness of linguistics. To him and many others, science is about the “background phenomena,” and the pursuit of science is to reveal a generalized underlying nature about the world. In his famous publication in the _Technology Review_, he is not only arguing for his theory but also the scientific validity of his methods and analysis— in front of an audience of non-linguists no less. Indeed, it seems linguists struggle to generalize language, whether it be under terms of Chomskian universal grammar or Whorfian linguistic determinism, is a byproduct of the creed of science. But because language is so central to human identity, it can mean that this ideal walks a thin line between science and discrimination.
+
+## References
+
+In APA format,
+
+- Barkham. (2008). The power of speech. The Guardian (London), 10–13.
+- Koerner. (1992). The Sapir-Whorf Hypothesis: A Preliminary History and a Bibliographical Essay. Journal of Linguistic Anthropology, 2(2), 173–198. https://doi.org/10.1525/jlin.1992.2.2.173
+- Nevins, Pesetsky, D., & Rodrigues, C. (2009). Pirahã Exceptionality: A Reassessment. https://doi.org/10.1353/lan.0.0107
+- Samuel, S., Cole, G., & Eacott, M. J. (2019). Grammatical gender and linguistic relativity: A systematic review. Psychonomic bulletin & review, 26(6), 1767–1786. https://doi.org/10.3758/s13423-019-01652-3
+  Whorf, Carroll, J. B., Levinson, S. C., & Lee, P. (2012). Language, thought, and reality selected writings of Benjamin Lee Whorf (2nd ed.). MIT Press.
+- Whorf, B. L. (1940). Science and linguistics. Cambridge, Mass: Technology Review.
+- Winawer, Witthoft, N., Frank, M. C., Wu, L., Wade, A. R., & Boroditsky, L. (2007). Russian Blues Reveal Effects of Language on Color Discrimination. Proceedings of the National Academy of Sciences - PNAS, 104(19), 7780–7785. https://doi.org/10.1073/pnas.0701644104
+
+Please note that this paints an incomplete picture of the linguistic situation regarding linguistic relativity, and the state of the topic is constantly changing. I encourage you to do your own research, and the provided references can be a good starting point.
