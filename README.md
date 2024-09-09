@@ -20,3 +20,16 @@ For instance, if you follow the updates of this repository, you'll find:
 2. RubyGems (check your Gems version using `gem -v`)
 3. GCC and Make (check versions using `gcc -v`, `g++ -v`, and `make -v`)
 4. Jekyll and bundler gems (install using `gem install jekyll bundler`)
+
+### ⚠️ Switch from Jekyll to Next.js
+
+Switching from Jekyll to Next.js for this statically generated site will prove useful for several reasons:
+
+1. A large technology switch is also an ideal opportunity to **overhaul the theme of the site** while simultaneously learning about new concepts.
+2. Next.js is more **robust & future-proof** than Jekyll, though Jekyll is more advantageous in it's simplicity.
+3. This new technology introduces the idea of **components** which when embraced will surely speed development in the right circumstances. Additionally, I will have to start using **React**.
+
+Some **difficulties** might include:
+
+1. Complexity especially starting out, and then with regards to **no native GitHub Pages** support. For this, I might have to create a CI/CD pipeline through **GitHub Actions**.
+2. Learning **[JavaScript](https://nextjs.org/learn)**.
