@@ -1,35 +1,38 @@
 # tsainez.github.io
 
-Experimental playground for my personal website. Not intended to be super professional per-se, but rather an outlet for personal expression. 🤷‍♀️
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-For instance, if you follow the updates of this repository, you'll find:
+## Getting Started
 
-- Snapshots of my site over time as I have gone through different technologies such as static site generators (e.g. Jekyll) or techniques.
-- Personal obsessions over time, such as complicated systems like linguistics or robotics, or other interdisciplinary things.
-- Technical guides that I have left over for myself, however readable or not. All in the hope that I would eventually come back to this when time permits!
+First, run the development server:
 
-## 💥 Quickstart
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- To start this website:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-      bundle exec jekyll serve
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 📚 Requirements
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-1. Ruby version 2.5.0 or higher, including all development headers (check your Ruby version using `ruby -v`)
-2. RubyGems (check your Gems version using `gem -v`)
-3. GCC and Make (check versions using `gcc -v`, `g++ -v`, and `make -v`)
-4. Jekyll and bundler gems (install using `gem install jekyll bundler`)
+## Learn More
 
-### ⚠️ Switch from Jekyll to Next.js
+To learn more about Next.js, take a look at the following resources:
 
-Switching from Jekyll to Next.js for this statically generated site will prove useful for several reasons:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. A large technology switch is also an ideal opportunity to **overhaul the theme of the site** while simultaneously learning about new concepts.
-2. Next.js is more **robust & future-proof** than Jekyll, though Jekyll is more advantageous in it's simplicity.
-3. This new technology introduces the idea of **components** which when embraced will surely speed development in the right circumstances. Additionally, I will have to start using **React**.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Some **difficulties** might include:
+## Deploy on Vercel
 
-1. Complexity especially starting out, and then with regards to **no native GitHub Pages** support. For this, I might have to create a CI/CD pipeline through **GitHub Actions**.
-2. Learning **[JavaScript](https://nextjs.org/learn)**.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
